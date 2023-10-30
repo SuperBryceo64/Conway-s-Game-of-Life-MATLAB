@@ -7,3 +7,5 @@ Whether a cell lives to the next generation or dies is determined by the number 
 - If a live cell has 2 or 3 live neighbors, it lives
 - If a live cell has more than 3 live neighbors, it dies (due to overpopulation)
 - If a dead cell has exactly 3 live neighbors, it comes to life (due to reproduction)
+## Getting Started
+To get started, download the repository to your computer. You will need to have MATLAB to access the file. Visit https://www.mathworks.com/products/matlab.html for more info. Once you have MATLAB installed and **game_of_life.mlx** opened, you can change the simulation settings found in lines 1-7. To start the simulation, simply press the *Start* button on line 9
